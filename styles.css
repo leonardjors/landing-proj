@@ -29,7 +29,6 @@
 }
 
 #products {
-    margin: 20px;
 }
 
 .text-center {
@@ -38,7 +37,6 @@
 }
 
 #about {
-    text-align: justify;
     font-style: italic;
 }
 
