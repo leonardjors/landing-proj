@@ -1,0 +1,55 @@
+
+.section-heading {
+    margin: 20px;
+}
+
+.carousel-item h5 {
+    color: white;
+    background-color: dodgerblue;
+    display: inline-block;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.container h1 {
+    color: dodgerblue;
+}
+
+.container h2 {
+    color: dodgerblue;
+}
+
+#services {
+    background-color: rgb(233, 236, 239);
+}
+
+#form {
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+
+#products {
+    margin: 20px;
+}
+
+.text-center {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#about {
+    text-align: justify;
+    font-style: italic;
+}
+
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Roboto'), local('Roboto-Regular'), url(https://fonts.gstatic.com/s/roboto/v20/KFOmCnqEu92Fr1Mu4mxKKTU1Kg.woff2) format('woff2');
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
